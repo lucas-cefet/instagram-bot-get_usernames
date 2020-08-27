@@ -1,6 +1,6 @@
 # instagram-bot-get_usernames
 
-Use webdriver selenium to get all usernames from your direct on Instagram.
+Use webdriver selenium to get a txt file with all usernames from your direct on Instagram (@username format).
 
 To run the script:
 
