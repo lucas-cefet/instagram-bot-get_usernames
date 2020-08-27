@@ -9,6 +9,7 @@ To run the script:
  - create a information.py file with variables: 
 
       username = 'your_username'
+      
       password = 'your_password'
       
 Need some ideas to make the code roll down the direct page until the end without giving it a number on a for i in range(number) loop. 
